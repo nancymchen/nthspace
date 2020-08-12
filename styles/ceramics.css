@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rasa:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+footer {
+  text-align: center;
+  margin-top: 200px;
+  border-top: solid 1px #a5a58d;
+}
+footer a {
+  color: #ecbec2;
+}
+footer p {
+  font-size: 12px;
+  line-height: 12px;
+}
+header .table {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+body {
+  font-family: "Poppins", "Helvetica Neue", Sans-serif;
+  color: #483f3a;
+  background-color: #faf6f3;
+  padding: 1rem 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1000px;
+}
+@media (max-width: smallViewport) {
+  body {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+h1,
+h2 {
+  font-family: "Itim";
+  font-weight: 400;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 23px;
+}
+h2.highlight {
+  background: #fff;
+}
+h3 {
+  font-size: 16px;
+  display: inline-block;
+  font-weight: 600;
+}
+p {
+  line-height: 20px;
+}
+a {
+  color: #483f3a;
+  text-decoration: none;
+}
+img,
+video {
+  max-width: 100%;
+}
+hr {
+  background-color: #e5e5e5;
+  height: 1px;
+  border: none;
+}
+.hidden {
+  display: none !important;
+}
+section,
+article {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+section {
+  margin-top: 5rem;
+}
+.highlighter {
+  font-weight: 600;
+  background-color: #f1cfd3;
+  padding: 3px;
+}
+.gr_grid_container {
+  text-align: center;
+  display:inline-block;
+}
+.gr_grid_book_container {
+  float: left;
+  width: 98px;
+  height: 160px;
+  padding: 0px 10px;
+  overflow: hidden;
+}
+
+
+.intro h1 {
+  text-align: center;
+}
+.intro button {
+  text-align: center;
+}
+.outro {
+  text-align: center;
+}
+.outro h1 {
+  text-align: center;
+}
+.outro .summary {
+  text-align: center;
+  margin-left: auto;
+}
+.outro img {
+  margin-top: 2rem;
+}
