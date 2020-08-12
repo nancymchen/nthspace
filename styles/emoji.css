@@ -1,0 +1,97 @@
+.emoji {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: sub;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.emoji.ambulance {
+  background-image: url("https://cdn.glitch.com/cc880f8d-a84f-4909-b676-497522a8c625%2Fambulance.png?1522348095546");
+}
+.emoji.balloon {
+  background-image: url("https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fballoon.png");
+}
+.emoji.bento-box {
+  background-image: url("https://cdn.glitch.com/55f8497b-3334-43ca-851e-6c9780082244%2Fbento-box.png?1502469566743");
+}
+.emoji.bomb {
+  background-image: url("https://cdn.glitch.com/f34c5d19-c958-40f6-b11f-7a4542a5ae5f%2Fbomb.png?1516646116574");
+}
+.emoji.carp_streamer {
+  background-image: url("https://cdn.glitch.com/f7224274-1330-4022-a8f2-8ae09dbd68a8%2Fcarp_streamer.png?1495811307116");
+}
+.emoji.credit_card {
+  background-image: url("https://cdn.glitch.com/c53fd895-ee00-4295-b111-7e024967a033%2Fcredit-card.png?1531500270157");
+}
+.emoji.dog-face {
+  background-image: url("https://cdn.glitch.com/03736932-82dc-40e8-8dc7-93330c933143%2Fdog-face.png?1518194896589");
+}
+.emoji.eyes {
+  background-image: url("https://cdn.glitch.com/9c72d8a2-2546-4c4c-9e97-2e6450752c11%2Feyes.png?1507674700306");
+}
+.emoji.facebook {
+  background-image: url("https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Ffacebook-logo.png");
+  width: 15px;
+  margin-left: 4px;
+}
+.emoji.fast-down {
+  background-image: url("https://cdn.glitch.com/c53fd895-ee00-4295-b111-7e024967a033%2Ffast_down.png?1531842090363");
+}
+.emoji.fast-up {
+  background-image: url("https://cdn.glitch.com/c53fd895-ee00-4295-b111-7e024967a033%2Ffast_up.png?1531842090613");
+}
+.emoji.herb {
+  background-image: url("https://cdn.glitch.com/c53fd895-ee00-4295-b111-7e024967a033%2Fherb.png?1530822265585");
+}
+.emoji.microphone {
+  background-image: url("https://cdn.glitch.com/9c72d8a2-2546-4c4c-9e97-2e6450752c11%2Fmicrophone.png?1507674704246");
+}
+.emoji.octocat {
+  background-image: url("https://gomix.com/images/emojis/github-logo-light.svg");
+  margin-left: 4px;
+}
+.emoji.sparkles {
+  background-image: url("https://cdn.glitch.com/f7224274-1330-4022-a8f2-8ae09dbd68a8%2Fsparkles.png?1494859430570");
+}
+.emoji.pushpin {
+  background-image: url("https://cdn.glitch.com/55f8497b-3334-43ca-851e-6c9780082244%2Fpushpin.png?1500918744339");
+}
+.emoji.thumbs_down {
+  background-image: url("https://cdn.glitch.com/55f8497b-3334-43ca-851e-6c9780082244%2Fthumbs_down.png?1503415943993");
+}
+.emoji.thumbs_up {
+  background-image: url("https://cdn.glitch.com/c53fd895-ee00-4295-b111-7e024967a033%2Fthumbs-up.png?1530883108902");
+}
+.emoji.framed_picture {
+  background-image: url("https://cdn.glitch.com/f7224274-1330-4022-a8f2-8ae09dbd68a8%2Fframed_picture.png?1496341054682");
+  margin-left: 2px;
+  margin-bottom: 1px;
+}
+.emoji.sparkling_heart {
+  background-image: url("https://cdn.glitch.com/f7224274-1330-4022-a8f2-8ae09dbd68a8%2Fsparkling_heart.png?1496347645716");
+}
+.emoji.wave {
+  background-image: url("https://cdn.glitch.com/55f8497b-3334-43ca-851e-6c9780082244%2Fwave.png?1502123444938");
+}
+.emoji.rainbow {
+  background-image: url("https://cdn.glitch.com/e5154318-7816-4ec9-a72a-a0e767031e99%2Frainbow.png?1533590257352");
+}
+.emoji.fishing_pole {
+  background-image: url("https://cdn.glitch.com/55f8497b-3334-43ca-851e-6c9780082244%2Ffishing_pole.png?1503525896764");
+}
+.emoji.microphone {
+  background-image: url("https://cdn.glitch.com/180b5e22-4649-4c71-9a21-2482eb557c8c%2Fmicrophone.png?1521056710182");
+}
+.emoji.diamond_small {
+  background-image: url("https://cdn.glitch.com/180b5e22-4649-4c71-9a21-2482eb557c8c%2Fdiamond-small.svg?1521574997856");
+}
+.emoji.avatar {
+  border-radius: 3px;
+  margin-left: 2px;
+}
+.emoji.emoji-in-title {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
