@@ -3,10 +3,10 @@
   display:inline-block;
 }
 
-.ceramics img {
+.ceramics > img {
   width:20%;
 }
 
-.ceramics_wide img {
+.ceramics_wide > img {
   width:40%;
 }
