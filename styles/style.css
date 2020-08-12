@@ -1,27 +1,5 @@
-.green {
-  background-color: #d3f3e6;
-}
-.light-blue {
-  background-color: #c3e2ff;
-}
-.yellow {
-  background-color: #fcf3b0;
-}
-.orange {
-  background-color: #f6c6b4;
-}
-.pink {
-  background-color: #ffaabf;
-}
-.purple {
-  background-color: #daa9ff;
-}
-.turquoise {
-  background-color: #b8ebe6;
-}
-.white {
-  background-color: secondary-background;
-}
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rasa:wght@300;400;500;600;700&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -43,7 +21,7 @@ header .table {
   left: 0;
 }
 body {
-  font-family: "Benton Sans", "Helvetica Neue", Sans-serif;
+  font-family: "Poppins", "Helvetica Neue", Sans-serif;
   color: #483f3a;
   background-color: #faf6f3;
   padding: 1rem 20px;
@@ -60,8 +38,8 @@ body {
 }
 h1,
 h2 {
-  font-family: Gaegu;
-  font-weight: bold;
+  font-family: "Itim";
+  font-weight: 400;
 }
 h1 {
   font-size: 28px;
@@ -111,7 +89,7 @@ section {
 }
 .gr_grid_container {
   text-align: center;
-  width: 500px;
+  display:inline-block;
 }
 .gr_grid_book_container {
   float: left;
