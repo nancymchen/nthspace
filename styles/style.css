@@ -82,6 +82,12 @@ article {
 section {
   margin-top: 5rem;
 }
+
+.social_logo{
+  width:100px;
+  height: 100px;
+}
+
 .highlighter {
   font-weight: 600;
   background-color: #f1cfd3;
