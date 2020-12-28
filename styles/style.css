@@ -95,7 +95,11 @@ h3 {
 }
 p {
   line-height: 22px;
-  width:80%;
+  width:90%;
+}
+
+.long{
+  width:50%;
 }
 
 .ital{
@@ -213,5 +217,9 @@ img.coffee{
 
   img.coffee{
     width:100%;
+  }
+
+  p.long{
+    width:90%;
   }
 }
